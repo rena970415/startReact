@@ -12,5 +12,5 @@ interface Props {
 
 
 export const Label = ({data}:Props) => { 
-  return <Container  >{data}</Container>
-}
+  return <Container   >{data}</Container>
+} 
